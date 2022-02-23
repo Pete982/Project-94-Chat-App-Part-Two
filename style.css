@@ -1,0 +1,28 @@
+style.css
+
+button{
+    border-color: green;
+    border-style: line;
+    cursor: pointer;
+    color: orangered;
+    width: 120px;
+    font-size: 30px;
+    border-radius: 15px;
+}
+button:hover{
+    background-color: green;
+}
+body{
+    background-color: navy;
+}
+h1{
+    color: red;
+    text-decoration: underline;
+}
+.logo{
+    width: 200px;
+    margin-top: 30px;
+    border-radius: 230px;
+    border-color: orange;
+    border-style: solid;
+}
